@@ -51,7 +51,7 @@ export default function handler(req, res) {
       ]
     },
     {
-      "titulo": "Control aviar 3",
+      "titulo": "Control aviar 4",
       "descripcion": "Evitamos daños y contaminación por aves mediante métodos humanitarios y soluciones a medida.",
       "etiqueta": "Gestión de aves",
       "bullets": [

@@ -49,6 +49,16 @@ export default function handler(req, res) {
         "Sistemas de exclusión en techos y cornisas",
         "Evaluación de riesgos y recomendaciones"
       ]
+    },
+    {
+      "titulo": "Control aviar 333333333",
+      "descripcion": "Evitamos daños y contaminación por aves mediante métodos humanitarios y soluciones a medida.",
+      "etiqueta": "Gestión de aves",
+      "bullets": [
+        "Instalación de púas y mallas",
+        "Sistemas de exclusión en techos y cornisas",
+        "Evaluación de riesgos y recomendaciones"
+      ]
     }
   ]);
 }
